@@ -1,15 +1,15 @@
 [Root]
-ProjectDisplayName=StealACar
-ProjectDescription=StealACar
-ProjectName=StealACar
-ProjectTrueName=937F2E8D7CFBABC0B90773DF45A38A7BA5C954048F3BF5DFBC9DBB27E254E179
-ProjectShortPath=/StealACar/
-StartMapName=/StealACar/UGCmap
+ProjectDisplayName=StealACat
+ProjectDescription=StealACat
+ProjectName=StealACat
+ProjectTrueName=937F2E8D7CFBABC0B90773DF45A38A7BB659D8ACA13F9C0B6C0FB9543A7AA9C9
+ProjectShortPath=/StealACat/
+StartMapName=/StealACat/UGCmap
 MapMode=0
 bIsBigWorld=0
 Version=1.32.11.31534
 UpdateVersion=7
-GameModePath=/StealACar/Asset/Blueprint/UGCGameMode.UGCGameMode_C
+GameModePath=/StealACat/Asset/Blueprint/UGCGameMode.UGCGameMode_C
 DefaultLevelDirectorPath=/Asset/Blueprint/UGCLevelDirector.UGCLevelDirector_C
 
 [FeatureFlags]
