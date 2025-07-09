@@ -7,9 +7,9 @@ ProjectShortPath=/StealACat/
 StartMapName=/StealACat/UGCmap
 MapMode=0
 bIsBigWorld=0
-Version=1.32.11.31534
+Version=1.32.11.31538
 UpdateVersion=7
-GameModePath=/StealACat/Asset/Blueprint/UGCGameMode.UGCGameMode_C
+GameModePath=/StealACat/Asset/Blueprint/StealACarGameMode.StealACarGameMode_C
 DefaultLevelDirectorPath=/Asset/Blueprint/UGCLevelDirector.UGCLevelDirector_C
 
 [FeatureFlags]
@@ -74,6 +74,6 @@ TargetPlatform=LinuxServer+WindowsNoEditor+Android_ETC2+IOS+OpenHarmony_ETC2
 
 [DebugSettings]
 bRoomOB=0
-TeamPlayers=1,0;1,0;
+TeamPlayers=1,0;
 
 
